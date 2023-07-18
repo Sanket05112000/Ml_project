@@ -1,1 +1,1 @@
-# Ml_project
+# Wind turbine power prediction
